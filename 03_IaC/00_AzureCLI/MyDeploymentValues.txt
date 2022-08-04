@@ -1,5 +1,5 @@
 botSubDomain=recobot.recosenselabs.com
 botName=RecoTeamsApp
-projectPrefix=porbot
+projectPrefix=recoteamsbot
 azureLocation=francecentral
-acrName=recobotacr
+acrName=recoteamsbotacr
