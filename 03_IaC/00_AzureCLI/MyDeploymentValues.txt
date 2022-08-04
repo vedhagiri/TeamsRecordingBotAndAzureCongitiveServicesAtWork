@@ -1,5 +1,5 @@
-botSubDomain=probot.vsalis.eu
-botName=myTeamsRecBot
+botSubDomain=recobot.recosenselabs.com
+botName=RecoTeamsApp
 projectPrefix=porbot
 azureLocation=francecentral
-acrName=porbotacr
+acrName=recobotacr
