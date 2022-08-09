@@ -1,5 +1,5 @@
-botSubDomain=recobot.recosenselabs.com
-botName=RecoTeamsApp
-projectPrefix=recojarvisbot
+botSubDomain=recobixbybot.recosenselabs.com
+botName=recobixbybot
+projectPrefix=girirecobixby
 azureLocation=centralindia
-acrName=recojarvisbotacr
+acrName=girirecobixbyacr
