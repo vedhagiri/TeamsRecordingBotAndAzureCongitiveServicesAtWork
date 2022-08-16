@@ -18,7 +18,7 @@ const MyTranscription = (props) => (
         </CardHeader>
         <CardBody>
             {props.transcription.text}
-            {/* <b>Translation:</b>{props.transcription.translations} */}
+            <b>Translation:</b>{props.transcription.translations}
         </CardBody>
     </Card>
 );
