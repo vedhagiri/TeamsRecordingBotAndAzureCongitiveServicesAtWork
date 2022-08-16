@@ -45,7 +45,7 @@ const InviteBot = (props) =>
 
     const myLanguages: LanguageEntity[] = [        
         { key: 'en-US', text: 'English' },
-        { key: 'el-GR', text: 'Greek' },   
+        { key: 'de-DE', text: 'German' },   
         { key: 'pl-PL', text: 'Polish' },
         { key: 'ru-RU', text: 'Russian' },
         { key: 'sl-SI', text: 'Slovenian' },
