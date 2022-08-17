@@ -5,14 +5,14 @@
   "version": "{{VERSION}}",
   "packageName": "{{PACKAGE_NAME}}",
   "developer": {
-    "name": "vasalis",
+    "name": "Giri",
     "websiteUrl": "https://{{HOSTNAME}}",
     "privacyUrl": "https://{{HOSTNAME}}/privacy.html",
     "termsOfUseUrl": "https://{{HOSTNAME}}/tou.html"
   },
   "name": {
-    "short": "cognitivebot",
-    "full": "cognitivebot"
+    "short": "recobot",
+    "full": "recosensebot"
   },
   "description": {
     "short": "TODO: add short description here",
@@ -39,7 +39,7 @@
   "staticTabs": [
     {
         "entityId": "default-data",
-        "name": "Cognitive Bot",
+        "name": "Reco Bot",
         "contentUrl": "https://{{HOSTNAME}}/cognitiveBotTab/",
         "scopes": [
             "personal"

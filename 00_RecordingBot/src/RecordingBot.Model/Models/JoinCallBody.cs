@@ -38,6 +38,6 @@ namespace RecordingBot.Model.Models
 
         public string TranscriptionLanguage { get; set; } = "en-US";
 
-        public string[] TranslationLanguages { get; set; } = { "el-GR" };
+        public string[] TranslationLanguages { get; set; } = { "de-DE" };
     }
 }

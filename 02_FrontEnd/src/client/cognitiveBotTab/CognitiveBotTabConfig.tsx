@@ -18,7 +18,7 @@ export const CognitiveBotTabConfig = () => {
         microsoftTeams.settings.setSettings({
             contentUrl: host + "/cognitiveBotTab/?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
             websiteUrl: host + "/cognitiveBotTab/?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
-            suggestedDisplayName: "Cognitive Bot",
+            suggestedDisplayName: "Reco Bot",
             removeUrl: host + "/cognitiveBotTab/remove.html?theme={theme}",
             entityId: entityId.current
         });
