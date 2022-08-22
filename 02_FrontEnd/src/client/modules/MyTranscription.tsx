@@ -18,7 +18,7 @@ const MyTranscription = (props) => (
         </CardHeader>
         <CardBody>
             {props.transcription.text}
-            <b>Translation: {"(" + props.transcription.currentTranslationLang + ")"}
+            <b>Translation:
             </b>{props.transcription.translations}
         </CardBody>
     </Card>
