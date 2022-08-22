@@ -2,21 +2,21 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.8/MicrosoftTeams.schema.json",
   "manifestVersion": "1.8",
   "id": "{{APPLICATION_ID}}",
-  "version": "{{VERSION}}",
-  "packageName": "{{PACKAGE_NAME}}",
+  "version": "1.0.1",
+  "packageName": "recodroid",
   "developer": {
-    "name": "Giri",
+    "name": "Vedhagiri Prakasam",
     "websiteUrl": "https://{{HOSTNAME}}",
     "privacyUrl": "https://{{HOSTNAME}}/privacy.html",
     "termsOfUseUrl": "https://{{HOSTNAME}}/tou.html"
   },
   "name": {
-    "short": "recobot",
-    "full": "recosensebot"
+    "short": "RecoDroid",
+    "full": "RecoDroid"
   },
   "description": {
-    "short": "TODO: add short description here",
-    "full": "TODO: add full description here"
+    "short": "Transcribe real-time speech to text",
+    "full": "This app is designed to capture real-time audio from Microsoft Teams meetings and convert speech-to-text with the user specific details. It transcribes the audio to the default language which is English."
   },
   "icons": {
     "outline": "icon-outline.png",
