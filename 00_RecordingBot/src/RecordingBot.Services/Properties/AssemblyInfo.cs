@@ -1,13 +1,13 @@
 // ***********************************************************************
 // Assembly         : RecordingBot.Services
-// Author           : JasonTheDeveloper
-// Created          : 09-07-2020
+// Author           : Vedhagiri Prakasam
+// Created          : 09-07-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 08-17-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 08-17-2022
 // ***********************************************************************
-// <copyright file="AssemblyInfo.cs" company="Microsoft">
-//     Copyright ©  2020
+// <copyright file="AssemblyInfo.cs" company="Recosenselabs.com">
+//     Copyright ©  2022
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("RecordingBot.Services")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

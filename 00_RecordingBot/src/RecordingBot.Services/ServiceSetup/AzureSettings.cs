@@ -1,13 +1,13 @@
 ﻿// ***********************************************************************
 // Assembly         : RecordingBot.Services
-// Author           : JasonTheDeveloper
-// Created          : 08-28-2020
+// Author           : Vedhagiri Prakasam
+// Created          : 08-28-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 09-09-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 09-09-2022
 // ***********************************************************************
 // <copyright file="AzureSettings.cs" company="Microsoft Corporation">
-//     Copyright ©  2020 Microsoft Corporation. All rights reserved.
+//     Copyright ©  2022 Microsoft Corporation. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************

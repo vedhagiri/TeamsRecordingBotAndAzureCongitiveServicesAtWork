@@ -1,13 +1,13 @@
 ﻿// ***********************************************************************
 // Assembly         : RecordingBot.Services
-// Author           : JasonTheDeveloper
-// Created          : 09-07-2020
+// Author           : Vedhagiri Prakasam
+// Created          : 09-07-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 09-03-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 09-03-2022
 // ***********************************************************************
-// <copyright file="MediaStream.cs" company="Microsoft">
-//     Copyright ©  2020
+// <copyright file="MediaStream.cs" company="Recosenselabs.com">
+//     Copyright ©  2022
 // </copyright>
 // <summary></summary>
 // ***********************************************************************

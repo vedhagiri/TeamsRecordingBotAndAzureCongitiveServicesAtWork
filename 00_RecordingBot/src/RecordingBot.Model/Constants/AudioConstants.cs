@@ -1,17 +1,4 @@
-﻿// ***********************************************************************
-// Assembly         : RecordingBot.Model
-// Author           : dannygar
-// Created          : 09-08-2020
-//
-// Last Modified By : dannygar
-// Last Modified On : 09-08-2020
-// ***********************************************************************
-// <copyright file="AudioConstants.cs" company="Microsoft">
-//     Copyright ©  2020
-// </copyright>
-// <summary></summary>
-// ***********************************************************************
-namespace RecordingBot.Model.Constants
+﻿namespace RecordingBot.Model.Constants
 {
     /// <summary>
     /// Class AudioConstants.

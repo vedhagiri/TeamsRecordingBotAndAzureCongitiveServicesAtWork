@@ -1,10 +1,10 @@
 // ***********************************************************************
 // Assembly         : RecordingBot.Services
-// Author           : JasonTheDeveloper
-// Created          : 09-07-2020
+// Author           : Vedhagiri Prakasam
+// Created          : 09-07-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 09-07-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 09-07-2022
 // ***********************************************************************
 // <copyright file="BotMediaStream.cs" company="Microsoft Corporation">
 //     Copyright (c) Microsoft Corporation. All rights reserved.

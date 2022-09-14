@@ -1,13 +1,13 @@
 ﻿// ***********************************************************************
 // Assembly         : RecordingBot.Model
-// Author           : JasonTheDeveloper
-// Created          : 09-07-2020
+// Author           : Vedhagiri Prakasam
+// Created          : 09-07-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 08-17-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 08-17-2022
 // ***********************************************************************
-// <copyright file="WavFileSettings.cs" company="Microsoft">
-//     Copyright ©  2020
+// <copyright file="WavFileSettings.cs" company="Recosenselabs.com">
+//     Copyright ©  2022
 // </copyright>
 // <summary></summary>
 // ***********************************************************************

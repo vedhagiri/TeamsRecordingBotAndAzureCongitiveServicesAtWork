@@ -1,13 +1,13 @@
 ﻿// ***********************************************************************
 // Assembly         : RecordingBot.Services
-// Author           : dannygar
-// Created          : 09-08-2020
+// Author           : Vedhagiri
+// Created          : 09-08-2022
 //
-// Last Modified By : dannygar
-// Last Modified On : 09-09-2020
+// Last Modified By : Vedhagiri
+// Last Modified On : 09-09-2022
 // ***********************************************************************
-// <copyright file="AudioFileUtils.cs" company="Microsoft">
-//     Copyright ©  2020
+// <copyright file="AudioFileUtils.cs" company="Recosenselabs.com">
+//     Copyright ©  2022
 // </copyright>
 // <summary></summary>
 // ***********************************************************************

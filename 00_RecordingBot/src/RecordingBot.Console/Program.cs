@@ -1,18 +1,4 @@
-﻿// ***********************************************************************
-// Assembly         : RecordingBot.Console
-// Author           : JasonTheDeveloper
-// Created          : 08-28-2020
-//
-// Last Modified By : dannyg
-// Last Modified On : 08-28-2020
-// ***********************************************************************
-// <copyright file="Program.cs" company="Microsoft Corporation">
-//      Copyright ©  2020 Microsoft Corporation. All rights reserved.
-//      //    Licensed under the MIT license. under the MIT license.
-// </copyright>
-// <summary></summary>
-// ***********************************************************************
-using RecordingBot.Services.ServiceSetup;
+﻿using RecordingBot.Services.ServiceSetup;
 using System;
 using System.Diagnostics;
 using System.Reflection;
