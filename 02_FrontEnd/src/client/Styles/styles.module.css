@@ -1,0 +1,27 @@
+@keyframes blinker {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.Blink {
+  -webkit-animation: blinker 1.5s cubic-bezier(0.5, 0, 1, 1) infinite alternate;
+  animation: blinker 1.5s cubic-bezier(0.5, 0, 1, 1) infinite alternate;
+}
+
+.recordingContainer {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #8b0000;
+  background-color: #000000;
+  text-align: center;
+  padding: 1rem 0.5rem;
+  /* color: #ee4b2b; */
+  z-index: 10;
+}
